@@ -1,2 +1,2 @@
-# Curso GitHub da Plataforma Alura - SevenDaysOfCode
+# Curso GitHub da Plataforma Alura - Compartilhando e colaborando em projetos
 
